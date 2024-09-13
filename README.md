@@ -28,7 +28,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
  
 ### Other Knowledge:
-![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=purple&labelColor=0D1117)&nbsp; 
+![C](https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=c&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
